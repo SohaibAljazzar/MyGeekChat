@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643650265795",
+    "project_id": "mygeekchat-8bca0",
+    "storage_bucket": "mygeekchat-8bca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643650265795:android:a5a8012117d628c21eb876",
+        "android_client_info": {
+          "package_name": "sohaib.chat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASgFEqe5j5XAiEyoiIk_59TOk72DkxPc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
